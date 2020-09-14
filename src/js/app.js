@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 // TODO: write your code here
 import sum from './basic.js';
 import Game, { GameSavingData, readGameSaving as loadGame, writeGameSaving as saveGame } from './game.js';
