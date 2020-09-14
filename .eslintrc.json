@@ -12,6 +12,7 @@
       "WithStatement"
     ],
     "max-classes-per-file": ["error", 2],
-    "indent": ["error", 4]
+    "indent": ["error", 4],
+    "import/extensions": ["error","ignorePackages"]
   }
 }
